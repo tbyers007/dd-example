@@ -1,5 +1,5 @@
 # Hi, my name is Tim
-## ## About me
+## About me
 - Im in full stack bootcamp
 
 ## How to Reach Me

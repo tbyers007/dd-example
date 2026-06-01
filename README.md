@@ -1,6 +1,6 @@
 # Hi, my name is Tim
-## Im in full stack bootcamp
-- 
+## ## About me
+- Im in full stack bootcamp
 
 ## How to Reach Me
 - LinkedIn: https://www.linkedin.com/feed/
